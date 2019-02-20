@@ -1,2 +1,2 @@
 # HadoopNote
-The hadoop note 
+The hadoop note [https://github.com/twilighthook/HadoopNote/wiki]
