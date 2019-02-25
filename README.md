@@ -1,4 +1,7 @@
-# Hadoop筆記
+此Github主要是有關大數據方面的文章，Hadoop、Spark...等的內容<br>
+目前文章持續更新中~
+
+### Hadoop筆記
 [The Hadoop Wiki](https://github.com/twilighthook/HadoopNote/wiki)
 
 ### Hadoop分支系列文章
