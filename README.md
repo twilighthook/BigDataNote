@@ -6,7 +6,7 @@
 * [大數據5V特性](https://github.com/twilighthook/HadoopNote/wiki/%E5%A4%A7%E6%95%B8%E6%93%9A5V%E7%89%B9%E6%80%A7)
 
 ### Hadoop安裝
-* [安裝本機式Hadoop]https://github.com/twilighthook/HadoopNote/wiki/%E5%AE%89%E8%A3%9D%E5%96%AE%E7%AF%80%E9%BB%9EHadoop%E6%95%99%E5%AD%B8
+* [安裝本機式Hadoop](https://github.com/twilighthook/HadoopNote/wiki/%E5%AE%89%E8%A3%9D%E5%96%AE%E7%AF%80%E9%BB%9EHadoop%E6%95%99%E5%AD%B8)
 * [安裝分布式Hadoop](https://github.com/twilighthook/HadoopNote/wiki/%E5%AE%89%E8%A3%9D%E5%88%86%E5%B8%83%E5%BC%8FHadoop%E6%95%99%E5%AD%B8)
 
 ### Hadoop基礎內容
