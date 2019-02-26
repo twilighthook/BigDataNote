@@ -14,6 +14,8 @@
 3. [在Hadoop上執行MapReduce](https://github.com/twilighthook/HadoopNote/wiki/%E5%9C%A8Hadoop%E4%B8%8A%E5%9F%B7%E8%A1%8CMapReduce)
 4. [Combiner函數](https://github.com/twilighthook/HadoopNote/wiki/Combiner%E5%87%BD%E6%95%B8)
 
+### HadoopAPI使用
+
 ### Hadoop分支系列文章
 * [Metadata解釋](https://github.com/twilighthook/HadoopNote/wiki/Metadata%E8%A7%A3%E9%87%8B)
 * [大數據5V特性](https://github.com/twilighthook/HadoopNote/wiki/%E5%A4%A7%E6%95%B8%E6%93%9A5V%E7%89%B9%E6%80%A7)
