@@ -16,3 +16,4 @@
 1. [Hadoop常用指令](https://github.com/twilighthook/HadoopNote/wiki/Hadoop%E5%B8%B8%E7%94%A8%E6%8C%87%E4%BB%A4)
 2. [MapReduce教學](https://github.com/twilighthook/HadoopNote/wiki/MapReduce%E6%95%99%E5%AD%B8)
 3. [在Hadoop上執行MapReduce](https://github.com/twilighthook/HadoopNote/wiki/%E5%9C%A8Hadoop%E4%B8%8A%E5%9F%B7%E8%A1%8CMapReduce)
+4. [Combiner函數](https://github.com/twilighthook/HadoopNote/wiki/Combiner%E5%87%BD%E6%95%B8)
