@@ -16,6 +16,7 @@
 
 ### HadoopAPI使用
 1. [Hadoop API的讀取資料](https://github.com/twilighthook/HadoopNote/wiki/Hadoop-API%E7%9A%84%E8%AE%80%E5%8F%96%E8%B3%87%E6%96%99)
+2. [Hadoop API的資料寫入](https://github.com/twilighthook/HadoopNote/wiki/Hadoop-API%E7%9A%84%E8%B3%87%E6%96%99%E5%AF%AB%E5%85%A5)
 
 ### Hadoop分支系列文章
 * [Metadata解釋](https://github.com/twilighthook/HadoopNote/wiki/Metadata%E8%A7%A3%E9%87%8B)
