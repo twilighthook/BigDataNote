@@ -3,12 +3,12 @@
 
 # HADOOP內容
 
+### Hadoop筆記
+[The Hadoop Wiki](https://github.com/twilighthook/HadoopNote/wiki)
+
 ### Hadoop分支系列文章
 * [Metadata解釋](https://github.com/twilighthook/HadoopNote/wiki/Metadata%E8%A7%A3%E9%87%8B)
 * [大數據5V特性](https://github.com/twilighthook/HadoopNote/wiki/%E5%A4%A7%E6%95%B8%E6%93%9A5V%E7%89%B9%E6%80%A7)
-
-### Hadoop筆記
-[The Hadoop Wiki](https://github.com/twilighthook/HadoopNote/wiki)
 
 ### Hadoop基礎內容
 1. [Hadoop常用指令](https://github.com/twilighthook/HadoopNote/wiki/Hadoop%E5%B8%B8%E7%94%A8%E6%8C%87%E4%BB%A4)
