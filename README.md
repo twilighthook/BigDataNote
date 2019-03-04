@@ -30,7 +30,7 @@
 
 ### SPARK內容
 * [Spark介紹與安裝使用](https://github.com/twilighthook/BigDataNote/wiki/Spark%E4%BB%8B%E7%B4%B9%E8%88%87%E5%AE%89%E8%A3%9D%E4%BD%BF%E7%94%A8)
-* [使用sbt建立scala程式]()
+* [使用sbt建立scala程式](https://github.com/twilighthook/BigDataNote/wiki/%E4%BD%BF%E7%94%A8sbt%E5%BB%BA%E7%AB%8Bscala%E7%A8%8B%E5%BC%8F)
 ***
 
 ### HBASE內容
