@@ -31,6 +31,7 @@
 ### SPARK內容
 * [Spark介紹與安裝使用](https://github.com/twilighthook/BigDataNote/wiki/Spark%E4%BB%8B%E7%B4%B9%E8%88%87%E5%AE%89%E8%A3%9D%E4%BD%BF%E7%94%A8)
 * [使用sbt建立scala程式](https://github.com/twilighthook/BigDataNote/wiki/%E4%BD%BF%E7%94%A8sbt%E5%BB%BA%E7%AB%8Bscala%E7%A8%8B%E5%BC%8F)
+*[RDD的操作(撰寫中)](https://github.com/twilighthook/BigDataNote/wiki/RDD%E7%9A%84%E6%93%8D%E4%BD%9C(%E6%92%B0%E5%AF%AB%E4%B8%AD))
 ***
 
 ### HBASE內容
