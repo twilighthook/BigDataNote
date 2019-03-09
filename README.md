@@ -16,7 +16,7 @@
 2. [MapReduce教學](https://github.com/twilighthook/HadoopNote/wiki/MapReduce%E6%95%99%E5%AD%B8)
 3. [在Hadoop上執行MapReduce](https://github.com/twilighthook/HadoopNote/wiki/%E5%9C%A8Hadoop%E4%B8%8A%E5%9F%B7%E8%A1%8CMapReduce)
 4. [Combiner函數](https://github.com/twilighthook/HadoopNote/wiki/Combiner%E5%87%BD%E6%95%B8)
-
+ 
 ### HadoopAPI使用
 1. [Hadoop API的讀取資料](https://github.com/twilighthook/HadoopNote/wiki/Hadoop-API%E7%9A%84%E8%AE%80%E5%8F%96%E8%B3%87%E6%96%99)
 2. [Hadoop API的資料寫入](https://github.com/twilighthook/HadoopNote/wiki/Hadoop-API%E7%9A%84%E8%B3%87%E6%96%99%E5%AF%AB%E5%85%A5)
