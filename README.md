@@ -36,7 +36,7 @@
 ***
 
 ### HBASE內容
-[安裝HBASE](https://github.com/twilighthook/BigDataNote/wiki/%E5%AE%89%E8%A3%9DHBASE)
+* [安裝HBASE](https://github.com/twilighthook/BigDataNote/wiki/%E5%AE%89%E8%A3%9DHBASE)
 
 ***
 
